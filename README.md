@@ -2,7 +2,7 @@
 
 ## About this repository
 
-This repository is a C# training for first year (SUP) at EPITA. It is made of two parts (Basics and UsagiShima) which are not linked. Instructions for Basics are located in the C# source files in docstring, but UsagiShima instructions are below : 
+This repository is a C# exercises set I made to train first year (SUP) at EPITA. It is composed of two parts (Basics and UsagiShima) which are not linked. Instructions for Basics are located in the C# source files in docstring, but UsagiShima instructions are below : 
 
 
 ### UsagiShima

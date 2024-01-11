@@ -38,3 +38,4 @@ Il fait froid, prenez vos C# !
 
 # UPDATES : 
 Seed MUST BE a string and not uint.
+Change uint by int in ConvertToRoman makes it easier.

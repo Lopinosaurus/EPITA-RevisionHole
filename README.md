@@ -33,3 +33,8 @@ I strongly recommend you to send us your final (or indev) code at `louis.laverne
 Do not hesitate to contact us if you need help. There is nothing more deceptive than an obvious fact.
 
 Il fait froid, prenez vos C# !
+
+
+
+# UPDATES : 
+Seed MUST BE a string and not uint.
